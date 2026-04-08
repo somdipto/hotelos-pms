@@ -96,3 +96,4 @@ The application will be available at `http://localhost:3000` with persistent dat
 
 MIT License — see [LICENSE](LICENSE) for details.
 # hotelos-pms
+# hotelos-pms
