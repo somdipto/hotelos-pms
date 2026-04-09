@@ -2,6 +2,10 @@
   <strong>HotelOS</strong> — A modern property management platform for hospitality.
 </p>
 
+
+https://github.com/user-attachments/assets/51b589c1-e46e-4c76-9b67-a485175291ff
+
+
 ---
 
 HotelOS is a property management system designed for hotels, homestays, villas, and other accommodation properties. Built with performance and usability in mind, it provides everything needed to manage property operations from a single dashboard.
